@@ -1,0 +1,657 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Reverse
+PlayResX: 1920
+PlayResY: 1080
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,浪漫雅圆,54,&H00FFFFFF,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: zhushi,浪漫雅圆,50,&H00FFFFFF,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.94,0:00:07.13,zhushi,NTP,0,0,0,,{\fad(100,100)\blur1}2011年1月 距離演唱會還有約一個月前的採訪
+Dialogue: 0,0:00:17.80,0:00:18.39,Default,NTP,0,0,0,,{\fad(100,100)\blur1}K-ON
+Dialogue: 0,0:00:21.66,0:00:23.26,Default,NTP,0,0,0,,{\fad(100,100)\blur1}畫好了
+Dialogue: 0,0:00:24.34,0:00:31.02,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這個是我和唯的合影
+Dialogue: 0,0:00:32.17,0:00:36.93,Default,NTP,0,0,0,,{\fad(100,100)\blur1}很期待輕音演唱會的一幅畫
+Dialogue: 0,0:00:39.39,0:00:44.09,Default,NTP,0,0,0,,{\fad(100,100)\blur1}接下來，在埼玉超級體育館的演唱會中
+Dialogue: 0,0:00:44.25,0:00:45.37,Default,NTP,0,0,0,,{\fad(100,100)\blur1}會場很大呢
+Dialogue: 0,0:00:45.70,0:00:46.69,Default,NTP,0,0,0,,{\fad(100,100)\blur1}很緊張的說
+Dialogue: 0,0:00:47.21,0:00:50.78,Default,NTP,0,0,0,,{\fad(100,100)\blur1}演奏沒問題呢
+Dialogue: 0,0:00:51.02,0:00:52.89,Default,NTP,0,0,0,,{\fad(100,100)\blur1}總之 現在的綵排很開心
+Dialogue: 0,0:00:53.11,0:01:04.91,Default,NTP,0,0,0,,{\fad(100,100)\blur1}真的很像和輕音部的大家每天放學在一起練習一樣
+Dialogue: 0,0:01:05.21,0:01:08.49,Default,NTP,0,0,0,,{\fad(100,100)\blur1}大家聚在一起準備演唱會的事
+Dialogue: 0,0:01:09.03,0:01:14.46,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這樣的感覺 如果能在演唱會當天傳達給大家就好了
+Dialogue: 0,0:01:14.91,0:01:17.94,Default,NTP,0,0,0,,{\fad(100,100)\blur1}雖然會場非常非常大
+Dialogue: 0,0:01:18.28,0:01:25.19,Default,NTP,0,0,0,,{\fad(100,100)\blur1}但還是希望能把輕音這部作品這種暖洋洋的氛圍傳達給大家
+Dialogue: 0,0:01:25.31,0:01:28.35,Default,NTP,0,0,0,,{\fad(100,100)\blur1}為了辦好這次的演唱會 我會加油的
+Dialogue: 0,0:01:28.81,0:01:29.52,Default,NTP,0,0,0,,{\fad(100,100)\blur1}Funsu!
+Dialogue: 0,0:01:30.42,0:01:32.64,Default,NTP,0,0,0,,{\fad(100,100)\blur1}如果是我會選這個呢
+Dialogue: 0,0:01:33.22,0:01:34.96,Default,NTP,0,0,0,,{\fad(100,100)\blur1}不過小唯的話肯定會選這個的說
+Dialogue: 0,0:01:38.38,0:01:40.30,Default,NTP,0,0,0,,{\fad(100,100)\blur1}所以我還是選這個吧
+Dialogue: 0,0:01:40.39,0:01:42.82,Default,NTP,0,0,0,,{\fad(100,100)\blur1}說起黑歷史
+Dialogue: 0,0:01:42.94,0:01:46.54,Default,NTP,0,0,0,,{\fad(100,100)\blur1}本來我是單手提著吉太的
+Dialogue: 0,0:01:47.87,0:01:50.30,Default,NTP,0,0,0,,{\fad(100,100)\blur1}不過改成和小唯一樣的雙背了
+Dialogue: 0,0:01:50.48,0:01:51.81,Default,NTP,0,0,0,,{\fad(100,100)\blur1}很可愛呢
+Dialogue: 0,0:01:55.61,0:02:00.90,Default,NTP,0,0,0,,{\fad(100,100)\blur1}昨天在房間裏彈了一下吉太
+Dialogue: 0,0:02:01.84,0:02:04.30,Default,NTP,0,0,0,,{\fad(100,100)\blur1}結果醒了之後發現已經天亮了
+Dialogue: 0,0:02:05.00,0:02:08.04,Default,NTP,0,0,0,,{\fad(100,100)\blur1}就像動畫裏的小唯一樣
+Dialogue: 0,0:02:08.52,0:02:15.80,Default,NTP,0,0,0,,{\fad(100,100)\blur1}吉太也躺在我的旁邊 沒有壓到它真是太好了
+Dialogue: 0,0:02:16.96,0:02:23.16,Default,NTP,0,0,0,,{\fad(100,100)\blur1}以後一定會注意收好才睡覺
+Dialogue: 0,0:02:23.36,0:02:24.97,Default,NTP,0,0,0,,{\fad(100,100)\blur1}就是這樣
+Dialogue: 0,0:02:34.67,0:02:37.66,Default,NTP,0,0,0,,{\fad(100,100)\blur1}如果能夠猜出動物的名字就好了
+Dialogue: 0,0:02:42.56,0:02:47.58,Default,NTP,0,0,0,,{\fad(100,100)\blur1}年齡也大了 各種的綵排和行程決定之後
+Dialogue: 0,0:02:47.98,0:02:52.12,Default,NTP,0,0,0,,{\fad(100,100)\blur1}終於要認真地準備演唱會的事了
+Dialogue: 0,0:02:52.25,0:02:54.79,Default,NTP,0,0,0,,{\fad(100,100)\blur1}感覺很厲害 很充實
+Dialogue: 0,0:02:57.40,0:02:59.77,Default,NTP,0,0,0,,{\fad(100,100)\blur1}雖然覺得很緊張
+Dialogue: 0,0:03:00.22,0:03:07.08,Default,NTP,0,0,0,,{\fad(100,100)\blur1}希望能努力做得比平時更好
+Dialogue: 0,0:03:07.79,0:03:12.34,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這個東西是父親教我畫的
+Dialogue: 0,0:03:13.05,0:03:22.13,Default,NTP,0,0,0,,{\fad(100,100)\blur1}在埼玉超級體育館這個很大的會場，自己作為觀眾也觀看了很多演唱會
+Dialogue: 0,0:03:22.41,0:03:26.48,Default,NTP,0,0,0,,{\fad(100,100)\blur1}很期待自己能站在那個舞台上
+Dialogue: 0,0:03:26.97,0:03:32.18,Default,NTP,0,0,0,,{\fad(100,100)\blur1}我會努力營造出與觀眾合為一體般的感覺
+Dialogue: 0,0:03:40.14,0:03:41.55,Default,NTP,0,0,0,,{\fad(100,100)\blur1}畫好了
+Dialogue: 0,0:03:44.25,0:03:54.40,Default,NTP,0,0,0,,{\fad(100,100)\blur1}十分期待在埼玉超級體育館與大家見面
+Dialogue: 0,0:03:54.50,0:03:58.93,Default,NTP,0,0,0,,{\fad(100,100)\blur1}橫著讀豎著讀都是米澤圓哦
+Dialogue: 0,0:03:59.33,0:04:00.48,Default,NTP,0,0,0,,{\fad(100,100)\blur1}特訓嗎
+Dialogue: 0,0:04:02.84,0:04:04.81,Default,NTP,0,0,0,,{\fad(100,100)\blur1}進行了想像的訓練吧
+Dialogue: 0,0:04:05.61,0:04:08.96,Default,NTP,0,0,0,,{\fad(100,100)\blur1}在這個很大的會場
+Dialogue: 0,0:04:11.00,0:04:13.81,Default,NTP,0,0,0,,{\fad(100,100)\blur1}為了到時候不會腳軟而進行了想像訓練
+Dialogue: 0,0:04:16.44,0:04:25.46,Default,NTP,0,0,0,,{\fad(100,100)\blur1}我現在在埼玉超級體育館的舞台上站著啊 這樣的想像
+Dialogue: 0,0:04:27.08,0:04:30.66,Default,NTP,0,0,0,,{\fad(100,100)\blur1}演唱會開始了之後時間變過的好快
+Dialogue: 0,0:04:32.38,0:04:37.73,Default,NTP,0,0,0,,{\fad(100,100)\blur1}希望能把一瞬間的事變成美好的回憶在心裏珍藏
+Dialogue: 0,0:04:39.19,0:04:40.49,Default,NTP,0,0,0,,{\fad(100,100)\blur1}我會加油的
+Dialogue: 0,0:04:49.88,0:04:55.72,Default,NTP,0,0,0,,{\fad(100,100)\blur1}誒 現在呢 不知道該怎麼辦才好
+Dialogue: 0,0:04:56.23,0:04:58.06,Default,NTP,0,0,0,,{\fad(100,100)\blur1}感覺很不安
+Dialogue: 0,0:04:58.94,0:05:02.10,Default,NTP,0,0,0,,{\fad(100,100)\blur1}不過這是個好契機
+Dialogue: 0,0:05:02.85,0:05:07.33,Default,NTP,0,0,0,,{\fad(100,100)\blur1}所以要盡力 盡力的說
+Dialogue: 0,0:05:08.74,0:05:13.55,Default,NTP,0,0,0,,{\fad(100,100)\blur1}雖說現在還沒明顯的感覺到壓力
+Dialogue: 0,0:05:14.79,0:05:21.00,Default,NTP,0,0,0,,{\fad(100,100)\blur1}不過不會敗給壓力 我會加油的
+Dialogue: 0,0:05:30.23,0:05:34.43,Default,NTP,0,0,0,,{\fad(100,100)\blur1}和會場裏的大家都很開心
+Dialogue: 0,0:05:36.48,0:05:40.32,Default,NTP,0,0,0,,{\fad(100,100)\blur1}通過這種開心的氣氛大家能燃起來就好了
+Dialogue: 0,0:05:51.38,0:05:52.52,Default,NTP,0,0,0,,{\fad(100,100)\blur1}畫好了
+Dialogue: 0,0:05:53.47,0:05:57.68,Default,NTP,0,0,0,,{\fad(100,100)\blur1}現在呢每天都拿著樂譜
+Dialogue: 0,0:05:58.73,0:06:01.07,Default,NTP,0,0,0,,{\fad(100,100)\blur1}有空的時候就看下樂譜
+Dialogue: 0,0:06:01.39,0:06:04.29,Default,NTP,0,0,0,,{\fad(100,100)\blur1}某種意義上也是和弦的練習
+Dialogue: 0,0:06:04.62,0:06:11.50,Default,NTP,0,0,0,,{\fad(100,100)\blur1}到了正式的時候也會馬上知道下一個和弦是什麼
+Dialogue: 0,0:06:12.51,0:06:15.12,Default,NTP,0,0,0,,{\fad(100,100)\blur1}眉毛的位置簡直絕配的說
+Dialogue: 0,0:06:16.90,0:06:24.25,Default,NTP,0,0,0,,{\fad(100,100)\blur1}可是鋼琴的琴鍵 這裏畫錯了
+Dialogue: 0,0:06:26.48,0:06:29.08,Default,NTP,0,0,0,,{\fad(100,100)\blur1}蛋糕也畫上了
+Dialogue: 0,0:06:29.25,0:06:36.24,Default,NTP,0,0,0,,{\fad(100,100)\blur1}感覺一說起小紬 就會想起蛋糕呢
+Dialogue: 0,0:06:37.84,0:06:42.30,Default,NTP,0,0,0,,{\fad(100,100)\blur1}在去年的演唱會 什麼東西都覺得很新鮮
+Dialogue: 0,0:06:43.14,0:06:44.81,Default,NTP,0,0,0,,{\fad(100,100)\blur1}衣服啊之類的
+Dialogue: 0,0:06:45.91,0:06:46.74,Default,NTP,0,0,0,,{\fad(100,100)\blur1}怎麼說呢
+Dialogue: 0,0:06:49.30,0:06:52.02,Default,NTP,0,0,0,,{\fad(100,100)\blur1}演奏輕飄飄時間的時候
+Dialogue: 0,0:06:54.43,0:07:00.42,Default,NTP,0,0,0,,{\fad(100,100)\blur1}觀眾們傳來的支持 還有一起唱輕飄飄時間的互動
+Dialogue: 0,0:07:00.49,0:07:01.85,Default,NTP,0,0,0,,{\fad(100,100)\blur1}對我來說太開心了
+Dialogue: 0,0:07:02.66,0:07:13.58,Default,NTP,0,0,0,,{\fad(100,100)\blur1}實際上 在橫濱演奏鍵盤重現動畫場面的時候
+Dialogue: 0,0:07:14.52,0:07:17.23,Default,NTP,0,0,0,,{\fad(100,100)\blur1}觀眾們都燃成灰燼了
+Dialogue: 0,0:07:18.11,0:07:22.60,Default,NTP,0,0,0,,{\fad(100,100)\blur1}那種接二連三的感覺
+Dialogue: 0,0:07:22.82,0:07:25.00,Default,NTP,0,0,0,,{\fad(100,100)\blur1}那個瞬間實在太幸福了
+Dialogue: 0,0:07:29.88,0:07:31.03,Default,NTP,0,0,0,,{\fad(100,100)\blur1}好好吃 有藍莓在裏面
+Dialogue: 0,0:07:31.90,0:07:35.18,Default,NTP,0,0,0,,{\fad(100,100)\blur1}啊 還在拍攝
+Dialogue: 0,0:07:35.66,0:07:38.91,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這次呢 曲目也增加了
+Dialogue: 0,0:07:39.59,0:07:42.95,Default,NTP,0,0,0,,{\fad(100,100)\blur1}果然...怎麼說呢...
+Dialogue: 0,0:07:43.64,0:07:51.30,Default,NTP,0,0,0,,{\fad(100,100)\blur1}和大家在一起練習的時間也多了 開心得眉毛都要掉了
+Dialogue: 0,0:07:52.23,0:08:05.18,Default,NTP,0,0,0,,{\fad(100,100)\blur1}然後再埼玉超級體育館看到的場景和橫濱體育館的肯定不一樣呢
+Dialogue: 0,0:08:05.46,0:08:12.10,Default,NTP,0,0,0,,{\fad(100,100)\blur1}很期待到時候能營造出什麼樣的氛圍呢
+Dialogue: 0,0:08:23.20,0:08:25.82,Default,NTP,0,0,0,,{\fad(100,100)\blur1}距離演唱會還有一個月的時間了
+Dialogue: 0,0:08:25.93,0:08:33.73,Default,NTP,0,0,0,,{\fad(100,100)\blur1}對我來說 是啊 果然還是樂器演奏呢
+Dialogue: 0,0:08:34.08,0:08:38.35,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這次要用樂器演奏的曲目有兩首呢
+Dialogue: 0,0:08:39.13,0:08:41.99,Default,NTP,0,0,0,,{\fad(100,100)\blur1}呀...打鼓好難的說呢
+Dialogue: 0,0:08:43.48,0:08:45.47,Default,NTP,0,0,0,,{\fad(100,100)\blur1}好難的說呢...
+Dialogue: 0,0:08:45.65,0:08:50.42,Default,NTP,0,0,0,,{\fad(100,100)\blur1}雖然一個人也有在練習
+Dialogue: 0,0:08:50.77,0:08:55.40,Default,NTP,0,0,0,,{\fad(100,100)\blur1}但果然還是五個人在一起的時候 才有樂團的感覺
+Dialogue: 0,0:08:55.60,0:09:00.16,Default,NTP,0,0,0,,{\fad(100,100)\blur1}懷著很開心呀 很開心呀 很開心的心情
+Dialogue: 0,0:09:00.36,0:09:03.95,Default,NTP,0,0,0,,{\fad(100,100)\blur1}大家一起努力練習到了離演唱會的一個月前
+Dialogue: 0,0:09:04.27,0:09:06.95,Default,NTP,0,0,0,,{\fad(100,100)\blur1}之前練習的時候鼓棒經常會
+Dialogue: 0,0:09:07.34,0:09:09.99,Default,NTP,0,0,0,,{\fad(100,100)\blur1}希望演唱會的時候鼓棒不會又飛了
+Dialogue: 0,0:09:10.46,0:09:12.21,Default,NTP,0,0,0,,{\fad(100,100)\blur1}我會緊緊地握好鼓棒
+Dialogue: 0,0:09:12.71,0:09:15.96,Default,NTP,0,0,0,,{\fad(100,100)\blur1}酷酷地敲好鼓
+Dialogue: 0,0:09:16.49,0:09:17.36,Default,NTP,0,0,0,,{\fad(100,100)\blur1}我會加油的
+Dialogue: 0,0:09:18.86,0:09:21.83,Default,NTP,0,0,0,,{\fad(100,100)\blur1}很難找到有黃色衣服賣的地方呢
+Dialogue: 0,0:09:22.04,0:09:26.51,Default,NTP,0,0,0,,{\fad(100,100)\blur1}終於找到了 結果早上卻差點忘了
+Dialogue: 0,0:09:27.31,0:09:33.08,Default,NTP,0,0,0,,{\fad(100,100)\blur1}最近呀 最近老師叫了我鍛煉手部靈活性的運動
+Dialogue: 0,0:09:34.14,0:09:37.33,Default,NTP,0,0,0,,{\fad(100,100)\blur1}像這樣 把手伸到面前
+Dialogue: 0,0:09:37.80,0:09:42.03,Default,NTP,0,0,0,,{\fad(100,100)\blur1}手指像這樣 咕嚕嚕..咕嚕嚕....咕嚕嚕....
+Dialogue: 0,0:09:42.11,0:09:44.99,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這個做五十次
+Dialogue: 0,0:09:47.33,0:09:49.46,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這次把手翻過來
+Dialogue: 0,0:09:49.77,0:09:51.33,Default,NTP,0,0,0,,{\fad(100,100)\blur1}看上去有這樣的感覺
+Dialogue: 0,0:09:51.33,0:09:52.63,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這個也是五十次
+Dialogue: 0,0:09:52.94,0:09:56.28,Default,NTP,0,0,0,,{\fad(100,100)\blur1}最後握緊拳頭再張開 握緊拳頭再張開
+Dialogue: 0,0:09:56.39,0:09:57.45,Default,NTP,0,0,0,,{\fad(100,100)\blur1}最後這個也是五十次
+Dialogue: 0,0:09:57.80,0:10:00.57,Default,NTP,0,0,0,,{\fad(100,100)\blur1}總共啪啪啪啪150次
+Dialogue: 0,0:10:01.13,0:10:03.90,Default,NTP,0,0,0,,{\fad(100,100)\blur1}然後老師說打下鼓試試
+Dialogue: 0,0:10:04.22,0:10:09.30,Default,NTP,0,0,0,,{\fad(100,100)\blur1}老師一直說肌肉要放鬆
+Dialogue: 0,0:10:09.73,0:10:14.44,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這個在家也練習了很多哦
+Dialogue: 0,0:10:15.07,0:10:19.75,Default,NTP,0,0,0,,{\fad(100,100)\blur1}感覺小律平時很爽快地就選了吃哪個
+Dialogue: 0,0:10:20.06,0:10:25.19,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這兩個蛋糕好像在做什麼對決似的
+Dialogue: 0,0:10:25.51,0:10:26.83,Default,NTP,0,0,0,,{\fad(100,100)\blur1}怎麼辦呢...
+Dialogue: 0,0:10:31.65,0:10:32.21,Default,NTP,0,0,0,,{\fad(100,100)\blur1}兩個都吃了
+Dialogue: 0,0:10:44.68,0:10:45.44,Default,NTP,0,0,0,,{\fad(100,100)\blur1}畫好了
+Dialogue: 0,0:10:46.92,0:10:48.93,Default,NTP,0,0,0,,{\fad(100,100)\blur1}好久不見的演唱會
+Dialogue: 0,0:10:49.44,0:10:53.50,Default,NTP,0,0,0,,{\fad(100,100)\blur1}上次的演唱會是12月30號呢
+Dialogue: 0,0:10:53.77,0:10:57.11,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這次的是2月20號呢 還剩一個月了
+Dialogue: 0,0:10:57.56,0:11:01.25,Default,NTP,0,0,0,,{\fad(100,100)\blur1}各種努力的練習
+Dialogue: 0,0:11:03.38,0:11:09.61,Default,NTP,0,0,0,,{\fad(100,100)\blur1}上次很滿足 不過還是出了些差錯
+Dialogue: 0,0:11:09.85,0:11:12.54,Default,NTP,0,0,0,,{\fad(100,100)\blur1}呵呵呵呵呵呵呵呵呵
+Dialogue: 0,0:11:12.69,0:11:18.45,Default,NTP,0,0,0,,{\fad(100,100)\blur1}然後有很多像擺腰之類的動作
+Dialogue: 0,0:11:18.92,0:11:22.83,Default,NTP,0,0,0,,{\fad(100,100)\blur1}那個..一開始覺得很害羞的
+Dialogue: 0,0:11:23.26,0:11:30.61,Default,NTP,0,0,0,,{\fad(100,100)\blur1}今年希望能不害羞地盡情甩吧
+Dialogue: 0,0:11:31.89,0:11:32.90,Default,NTP,0,0,0,,{\fad(100,100)\blur1}好幸福的樣子
+Dialogue: 0,0:11:38.49,0:11:41.36,Default,NTP,0,0,0,,{\fad(100,100)\blur1}想要和阿梓喵一樣
+Dialogue: 0,0:11:44.47,0:11:45.59,Default,NTP,0,0,0,,{\fad(100,100)\blur1}香蕉取不下來了...
+Dialogue: 0,0:11:47.55,0:11:53.18,Default,NTP,0,0,0,,{\fad(100,100)\blur1}為了大家能享受這次演唱會 我要加油呢
+Dialogue: 0,0:11:53.39,0:11:56.17,Default,NTP,0,0,0,,{\fad(100,100)\blur1}大家請敬請期待吧
+Dialogue: 0,0:11:56.19,0:11:59.64,Default,NTP,0,0,0,,{\fad(100,100)\blur1}對了 這個出售的時候好像會放在特典裏吧
+Dialogue: 0,0:11:59.64,0:12:03.24,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這樣啊 怎麼樣 我要加油呢
+Dialogue: 0,0:12:10.57,0:12:16.24,Default,NTP,0,0,0,,{\fad(100,100)\blur1}原來如此 還沒有什麼實感呢
+Dialogue: 0,0:12:17.31,0:12:19.62,Default,NTP,0,0,0,,{\fad(100,100)\blur1}之後也會有練習了
+Dialogue: 0,0:12:20.37,0:12:24.35,Default,NTP,0,0,0,,{\fad(100,100)\blur1}今天也拍了照片
+Dialogue: 0,0:12:24.75,0:12:28.74,Default,NTP,0,0,0,,{\fad(100,100)\blur1}感覺一下就覺得有實感了
+Dialogue: 0,0:12:31.21,0:12:38.82,Default,NTP,0,0,0,,{\fad(100,100)\blur1}那個...不知道自己會不會又切換到暴走模式呢
+Dialogue: 0,0:12:42.68,0:12:47.47,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這樣的牙彈看不懂啊 這樣更好吧
+Dialogue: 0,0:12:48.27,0:12:50.82,Default,NTP,0,0,0,,{\fad(100,100)\blur1}我是那種一按開關就轉變的人
+Dialogue: 0,0:12:52.05,0:13:00.71,Default,NTP,0,0,0,,{\fad(100,100)\blur1}不過考慮到演唱會的規模呀 給觀眾的質量之類的事
+Dialogue: 0,0:13:02.17,0:13:06.74,Default,NTP,0,0,0,,{\fad(100,100)\blur1}就覺得會不會太晚了呢
+Dialogue: 0,0:13:07.04,0:13:13.93,Default,NTP,0,0,0,,{\fad(100,100)\blur1}所以呢早早的就切換成像老師暴走時那樣的感覺
+Dialogue: 0,0:13:14.53,0:13:18.45,Default,NTP,0,0,0,,{\fad(100,100)\blur1}還要鍛煉體力呢
+Dialogue: 0,0:13:19.45,0:13:24.37,Default,NTP,0,0,0,,{\fad(100,100)\blur1}其實昨天也看了演唱會 做了這個手勢
+Dialogue: 0,0:13:25.16,0:13:31.38,Default,NTP,0,0,0,,{\fad(100,100)\blur1}演唱會當天穿了那個衣服 感覺就要變得很奇怪了
+Dialogue: 0,0:13:31.68,0:13:36.05,Default,NTP,0,0,0,,{\fad(100,100)\blur1}那個時候可能就沒有現在這樣的笑容了
+Dialogue: 0,0:13:36.32,0:13:40.96,Default,NTP,0,0,0,,{\fad(100,100)\blur1}那個...嗯..所以現在盡量展現給大家看
+Dialogue: 0,0:13:46.27,0:13:47.11,Default,NTP,0,0,0,,{\fad(100,100)\blur1}完成
+Dialogue: 0,0:13:50.58,0:13:53.72,Default,NTP,0,0,0,,{\fad(100,100)\blur1}大概正式的時候會嗚哇...那樣
+Dialogue: 0,0:13:54.47,0:14:03.84,Default,NTP,0,0,0,,{\fad(100,100)\blur1}那個...作為現實中年齡最大的我
+Dialogue: 0,0:14:05.59,0:14:10.91,Default,NTP,0,0,0,,{\fad(100,100)\blur1}希望能領導好會場的大家
+Dialogue: 0,0:14:11.40,0:14:12.66,Default,NTP,0,0,0,,{\fad(100,100)\blur1}OK..加油哦
+Dialogue: 0,0:14:13.64,0:14:20.39,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這次有我不唱但要彈的歌
+Dialogue: 0,0:14:20.84,0:14:23.54,Default,NTP,0,0,0,,{\fad(100,100)\blur1}現在還在記住那首歌曲的階段中
+Dialogue: 0,0:14:24.91,0:14:31.94,Default,NTP,0,0,0,,{\fad(100,100)\blur1}希望能用吉他彈出好的音樂吧
+Dialogue: 0,0:14:32.29,0:14:34.83,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這個要拍多久 沒問題嗎
+Dialogue: 0,0:14:49.15,0:14:51.13,Default,NTP,0,0,0,,{\fad(100,100)\blur1}快看這個 進展順利
+Dialogue: 0,0:14:52.23,0:14:54.16,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這是我日笠盡全力畫出來的了
+Dialogue: 0,0:15:01.56,0:15:04.67,Default,NTP,0,0,0,,{\fad(100,100)\blur1}上次在橫濱體育館的時候
+Dialogue: 0,0:15:05.24,0:15:12.20,Default,NTP,0,0,0,,{\fad(100,100)\blur1}跟大約15000位觀眾一起營造出了美好的舞台
+Dialogue: 0,0:15:12.85,0:15:16.03,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這次大概有30000人吧
+Dialogue: 0,0:15:16.41,0:15:19.42,Default,NTP,0,0,0,,{\fad(100,100)\blur1}如果能和增加了一倍人數的大家一起
+Dialogue: 0,0:15:19.97,0:15:23.04,Default,NTP,0,0,0,,{\fad(100,100)\blur1}營造出美好的舞台就好了
+Dialogue: 0,0:15:23.91,0:15:27.75,Default,NTP,0,0,0,,{\fad(100,100)\blur1}很期待呀...雖然也很不安
+Dialogue: 0,0:15:28.36,0:15:35.21,Default,NTP,0,0,0,,{\fad(100,100)\blur1}怎麼說呢 和上次不一樣呢 興奮的感覺要更多
+Dialogue: 0,0:15:35.38,0:15:49.09,Default,NTP,0,0,0,,{\fad(100,100)\blur1}和輕音的大家還是工作人員的各位營造出美好的舞台就好了
+Dialogue: 0,0:15:51.21,0:15:53.16,Default,NTP,0,0,0,,{\fad(100,100)\blur1}看到勺子彎了哦
+Dialogue: 0,0:15:54.34,0:16:02.83,Default,NTP,0,0,0,,{\fad(100,100)\blur1}我用左手彈貝斯的時候感覺挺有難度的 平時都是右手的說
+Dialogue: 0,0:16:03.12,0:16:08.21,Default,NTP,0,0,0,,{\fad(100,100)\blur1}左右手的神經不一樣呢...感覺左手不怎麼會動
+Dialogue: 0,0:16:08.75,0:16:18.35,Default,NTP,0,0,0,,{\fad(100,100)\blur1}然後老師教了一個方法之後 每天洗澡的時候都這樣練習
+Dialogue: 0,0:16:18.61,0:16:23.58,Default,NTP,0,0,0,,{\fad(100,100)\blur1}平時生活中也記住盡量用左手
+Dialogue: 0,0:16:33.46,0:16:40.76,Default,NTP,0,0,0,,{\fad(100,100)\blur1}我去下跑步了
+Dialogue: 0,0:16:53.20,0:16:59.08,zhushi,NTP,0,0,0,,{\fad(100,100)\blur1}2009年2月 第一次看到樂器！
+Dialogue: 0,0:17:00.02,0:17:03.47,Default,NTP,0,0,0,,{\fad(100,100)\blur1}打擾了
+Dialogue: 0,0:17:04.14,0:17:05.73,Default,NTP,0,0,0,,{\fad(100,100)\blur1}沒有人呢
+Dialogue: 0,0:17:06.30,0:17:10.09,Default,NTP,0,0,0,,{\fad(100,100)\blur1}打擾了
+Dialogue: 0,0:17:12.35,0:17:13.30,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這是什麼
+Dialogue: 0,0:17:16.31,0:17:17.16,Default,NTP,0,0,0,,{\fad(100,100)\blur1}好厲害啊
+Dialogue: 0,0:17:18.02,0:17:18.70,Default,NTP,0,0,0,,{\fad(100,100)\blur1}好可怕哦
+Dialogue: 0,0:17:26.56,0:17:28.15,Default,NTP,0,0,0,,{\fad(100,100)\blur1}那是什麼
+Dialogue: 0,0:17:31.23,0:17:32.08,Default,NTP,0,0,0,,{\fad(100,100)\blur1}樂器們啊
+Dialogue: 0,0:17:33.82,0:17:34.93,Default,NTP,0,0,0,,{\fad(100,100)\blur1}我在這邊幫你拿著
+Dialogue: 0,0:17:34.93,0:17:35.59,Default,NTP,0,0,0,,{\fad(100,100)\blur1}謝謝
+Dialogue: 0,0:17:35.61,0:17:36.16,Default,NTP,0,0,0,,{\fad(100,100)\blur1}加油
+Dialogue: 0,0:17:35.76,0:17:39.79,Default,NTP,0,0,0,,{\fad(100,100)\blur1}我從這邊幫你拿著...加油
+Dialogue: 0,0:17:39.76,0:17:40.70,Default,NTP,0,0,0,,{\fad(100,100)\blur1}看上去好帥
+Dialogue: 0,0:17:34.32,0:17:41.87,zhushi,NTP,0,0,0,,{\fad(100,100)\blur1}Web Radio裏音!的計劃 大家拿著真實的樂器
+Dialogue: 0,0:17:42.34,0:17:44.31,Default,NTP,0,0,0,,{\fad(100,100)\blur1}好硬呢這個
+Dialogue: 0,0:17:45.09,0:17:45.83,Default,NTP,0,0,0,,{\fad(100,100)\blur1}好 扣上了
+Dialogue: 0,0:17:49.57,0:17:51.01,Default,NTP,0,0,0,,{\fad(100,100)\blur1}哇 好帥啊
+Dialogue: 0,0:17:51.01,0:17:52.96,Default,NTP,0,0,0,,{\fad(100,100)\blur1}像模像樣呢
+Dialogue: 0,0:17:53.29,0:17:54.52,Default,NTP,0,0,0,,{\fad(100,100)\blur1}好像音樂家呢
+Dialogue: 0,0:17:54.82,0:17:57.37,Default,NTP,0,0,0,,{\fad(100,100)\blur1}現在這個能發出聲嗎
+Dialogue: 0,0:17:58.82,0:18:02.08,Default,NTP,0,0,0,,{\fad(100,100)\blur1}稍微等下...安靜一點
+Dialogue: 0,0:18:02.49,0:18:03.25,Default,NTP,0,0,0,,{\fad(100,100)\blur1}彈一下怎麼樣
+Dialogue: 0,0:18:03.25,0:18:07.03,Default,NTP,0,0,0,,{\fad(100,100)\blur1}哇 好厲害
+Dialogue: 0,0:18:08.89,0:18:11.23,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這個左邊怎麼背的
+Dialogue: 0,0:18:11.76,0:18:14.01,Default,NTP,0,0,0,,{\fad(100,100)\blur1}反過來 和我的反過來
+Dialogue: 0,0:18:18.27,0:18:19.08,Default,NTP,0,0,0,,{\fad(100,100)\blur1}哇 好厲害
+Dialogue: 0,0:18:20.58,0:18:22.86,Default,NTP,0,0,0,,{\fad(100,100)\blur1}好帥啊
+Dialogue: 0,0:18:22.97,0:18:24.76,Default,NTP,0,0,0,,{\fad(100,100)\blur1}很相稱呢
+Dialogue: 0,0:18:25.20,0:18:25.83,Default,NTP,0,0,0,,{\fad(100,100)\blur1}啊..等下..那個
+Dialogue: 0,0:18:26.40,0:18:27.22,Default,NTP,0,0,0,,{\fad(100,100)\blur1}我彈一下試試
+Dialogue: 0,0:18:27.61,0:18:30.00,Default,NTP,0,0,0,,{\fad(100,100)\blur1}是這樣的聲音嗎
+Dialogue: 0,0:18:31.20,0:18:33.31,Default,NTP,0,0,0,,{\fad(100,100)\blur1}是這樣彈的嗎
+Dialogue: 0,0:18:33.60,0:18:34.33,Default,NTP,0,0,0,,{\fad(100,100)\blur1}像這樣？
+Dialogue: 0,0:18:34.81,0:18:36.40,Default,NTP,0,0,0,,{\fad(100,100)\blur1}但是怎麼感覺...
+Dialogue: 0,0:18:40.88,0:18:42.29,Default,NTP,0,0,0,,{\fad(100,100)\blur1}哇好厲害 原來是這樣
+Dialogue: 0,0:18:45.98,0:18:48.67,Default,NTP,0,0,0,,{\fad(100,100)\blur1}One two three...One two three...
+Dialogue: 0,0:18:49.92,0:18:50.96,Default,NTP,0,0,0,,{\fad(100,100)\blur1}好可愛
+Dialogue: 0,0:18:51.44,0:18:56.42,Default,NTP,0,0,0,,{\fad(100,100)\blur1}有好多要用到腳的地方啊
+Dialogue: 0,0:18:57.05,0:18:58.26,Default,NTP,0,0,0,,{\fad(100,100)\blur1}哇~！
+Dialogue: 0,0:19:00.17,0:19:02.56,Default,NTP,0,0,0,,{\fad(100,100)\blur1}再試幾次
+Dialogue: 0,0:19:05.53,0:19:06.67,Default,NTP,0,0,0,,{\fad(100,100)\blur1}哈哈哈哈哈哈
+Dialogue: 0,0:19:12.40,0:19:14.40,Default,NTP,0,0,0,,{\fad(100,100)\blur1}啊...好厲害
+Dialogue: 0,0:19:15.75,0:19:17.31,Default,NTP,0,0,0,,{\fad(100,100)\blur1}彈彈看嗎 好厲害
+Dialogue: 0,0:19:17.77,0:19:18.76,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這是什麼
+Dialogue: 0,0:19:19.03,0:19:21.43,Default,NTP,0,0,0,,{\fad(100,100)\blur1}可以發出很多聲音啊
+Dialogue: 0,0:19:24.15,0:19:25.53,Default,NTP,0,0,0,,{\fad(100,100)\blur1}不同的聲音嗎
+Dialogue: 0,0:19:25.70,0:19:27.46,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這個聽上去像風琴的聲音
+Dialogue: 0,0:19:27.69,0:19:28.53,Default,NTP,0,0,0,,{\fad(100,100)\blur1}好厲害
+Dialogue: 0,0:19:30.78,0:19:32.27,Default,NTP,0,0,0,,{\fad(100,100)\blur1}很有現代化氣息的感覺呢
+Dialogue: 0,0:19:34.48,0:19:36.45,Default,NTP,0,0,0,,{\fad(100,100)\blur1}其實我小時候就學過鋼琴了
+Dialogue: 0,0:19:37.18,0:19:38.18,Default,NTP,0,0,0,,{\fad(100,100)\blur1}哇 好厲害...
+Dialogue: 0,0:19:39.41,0:19:40.21,Default,NTP,0,0,0,,{\fad(100,100)\blur1}什麼都好 來點什麼吧
+Dialogue: 0,0:19:40.59,0:19:43.05,Default,NTP,0,0,0,,{\fad(100,100)\blur1}那大家"鏘"地來一下吧
+Dialogue: 0,0:19:47.93,0:19:50.75,Default,NTP,0,0,0,,{\fad(100,100)\blur1}一 二...One two three four
+Dialogue: 0,0:19:52.67,0:19:54.19,Default,NTP,0,0,0,,{\fad(100,100)\blur1}啊~~~~~
+Dialogue: 0,0:19:55.01,0:19:56.02,Default,NTP,0,0,0,,{\fad(100,100)\blur1}那邊好厲害呢
+Dialogue: 0,0:20:03.69,0:20:09.23,zhushi,NTP,0,0,0,,{\fad(100,100)\blur1}這時候聽眾們還不知道竹達彩奈要參加樂器練習
+Dialogue: 0,0:20:09.33,0:20:10.76,Default,NTP,0,0,0,,{\fad(100,100)\blur1}好厲害的氣氛
+Dialogue: 0,0:20:12.53,0:20:15.08,Default,NTP,0,0,0,,{\fad(100,100)\blur1}哇 我要彈這個嗎
+Dialogue: 0,0:20:13.42,0:20:19.14,zhushi,NTP,0,0,0,,{\fad(100,100)\blur1}因此接受了工作室給的樂器
+Dialogue: 0,0:20:16.57,0:20:17.23,Default,NTP,0,0,0,,{\fad(100,100)\blur1}好重..
+Dialogue: 0,0:20:18.01,0:20:18.63,Default,NTP,0,0,0,,{\fad(100,100)\blur1}好重..
+Dialogue: 0,0:20:19.52,0:20:20.44,Default,NTP,0,0,0,,{\fad(100,100)\blur1}非常感謝
+Dialogue: 0,0:20:23.17,0:20:24.16,Default,NTP,0,0,0,,{\fad(100,100)\blur1}我會加油的
+Dialogue: 0,0:20:25.20,0:20:25.75,Default,NTP,0,0,0,,{\fad(100,100)\blur1}我會加油的
+Dialogue: 0,0:20:25.95,0:20:27.54,Default,NTP,0,0,0,,{\fad(100,100)\blur1}背上可以嗎
+Dialogue: 0,0:20:29.20,0:20:29.85,Default,NTP,0,0,0,,{\fad(100,100)\blur1}好酷
+Dialogue: 0,0:20:30.69,0:20:31.68,Default,NTP,0,0,0,,{\fad(100,100)\blur1}我會加油的
+Dialogue: 0,0:20:33.87,0:20:34.35,Default,NTP,0,0,0,,{\fad(100,100)\blur1}好長
+Dialogue: 0,0:20:38.18,0:20:38.79,Default,NTP,0,0,0,,{\fad(100,100)\blur1}好厲害
+Dialogue: 0,0:20:39.73,0:20:40.56,Default,NTP,0,0,0,,{\fad(100,100)\blur1}好酷
+Dialogue: 0,0:20:42.08,0:20:42.90,Default,NTP,0,0,0,,{\fad(100,100)\blur1}非常感謝
+Dialogue: 0,0:20:43.28,0:20:44.40,Default,NTP,0,0,0,,{\fad(100,100)\blur1}我會加油的
+Dialogue: 0,0:20:38.59,0:20:46.33,zhushi,NTP,0,0,0,,{\fad(100,100)\blur1}就這樣 5人樂器的練習開始了
+Dialogue: 0,0:20:48.73,0:20:54.09,zhushi,NTP,0,0,0,,{\fad(100,100)\blur1}2011年2月 演唱會練習！
+Dialogue: 0,0:21:50.42,0:21:52.43,Default,NTP,0,0,0,,{\fad(100,100)\blur1}被看著呢 好害羞
+Dialogue: 0,0:21:56.36,0:21:58.08,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這是頭部設備哦
+Dialogue: 0,0:22:06.40,0:22:08.32,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這個就是頭部世界
+Dialogue: 0,0:22:08.71,0:22:10.36,Default,NTP,0,0,0,,{\fad(100,100)\blur1}啊咧 什麼來著
+Dialogue: 0,0:22:10.90,0:22:11.35,Default,NTP,0,0,0,,{\fad(100,100)\blur1}那個...
+Dialogue: 0,0:22:15.47,0:22:15.88,zhushi,NTP,0,0,0,,{\fad(100,100)\blur1}Staff：頭部設備
+Dialogue: 0,0:22:16.20,0:22:17.81,Default,NTP,0,0,0,,{\fad(100,100)\blur1}頭部設備的世界啊
+Dialogue: 0,0:22:19.38,0:22:21.65,Default,NTP,0,0,0,,{\fad(100,100)\blur1}大家都好興奮
+Dialogue: 0,0:22:23.39,0:22:26.25,Default,NTP,0,0,0,,{\fad(100,100)\blur1}會變成怎樣的感覺呢 心跳加速了呢
+Dialogue: 0,0:22:30.13,0:22:33.65,Default,NTP,0,0,0,,{\fad(100,100)\blur1}那個~我是來到頭部設備的世界的日笠
+Dialogue: 0,0:22:34.10,0:22:35.10,Default,NTP,0,0,0,,{\fad(100,100)\blur1}是我的說
+Dialogue: 0,0:22:36.36,0:22:37.61,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這樣怎麼樣
+Dialogue: 0,0:22:38.95,0:22:40.06,zhushi,NTP,0,0,0,,{\fad(100,100)\blur1}Staff：再來點什麼吧
+Dialogue: 0,0:22:40.36,0:22:40.70,Default,NTP,0,0,0,,{\fad(100,100)\blur1}再來點啊
+Dialogue: 0,0:22:40.96,0:22:45.64,Default,NTP,0,0,0,,{\fad(100,100)\blur1}今天吃了牛角包的說~
+Dialogue: 0,0:22:48.12,0:22:50.64,zhushi,NTP,0,0,0,,{\fad(100,100)\blur1}(歌詞)
+Dialogue: 0,0:22:51.11,0:22:54.45,Default,NTP,0,0,0,,{\fad(100,100)\blur1}那個..請給我一個冰淇淋..
+Dialogue: 0,0:22:54.33,0:22:57.37,zhushi,NTP,0,0,0,,{\fad(100,100)\blur1}Staff：好 接著竹達拜託了
+Dialogue: 0,0:22:56.74,0:22:59.86,Default,NTP,0,0,0,,{\fad(100,100)\blur1}嗨 這裏是竹達彩奈的說
+Dialogue: 0,0:23:00.13,0:23:03.25,Default,NTP,0,0,0,,{\fad(100,100)\blur1}那個 今天吃了味增的說
+Dialogue: 0,0:23:03.92,0:23:06.21,Default,NTP,0,0,0,,{\fad(100,100)\blur1}很好吃呢 哼哼哼哼哼哼哼哼哼哼哼哼哼哼哼哼哼哼
+Dialogue: 0,0:23:07.34,0:23:08.44,zhushi,NTP,0,0,0,,{\fad(100,100)\blur1}Staff：接著壽君
+Dialogue: 0,0:23:09.55,0:23:12.45,Default,NTP,0,0,0,,{\fad(100,100)\blur1}嗯..Honey sweet tea time
+Dialogue: 0,0:23:13.13,0:23:14.15,Default,NTP,0,0,0,,{\fad(100,100)\blur1}只是想說這個
+Dialogue: 0,0:23:15.71,0:23:17.01,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這個也要用哦
+Dialogue: 0,0:23:18.37,0:23:19.62,Default,NTP,0,0,0,,{\fad(100,100)\blur1}也要用哦
+Dialogue: 0,0:23:20.10,0:23:24.98,Default,NTP,0,0,0,,{\fad(100,100)\blur1}那個 今天的早飯 什麼來著...
+Dialogue: 0,0:23:25.05,0:23:26.46,Default,NTP,0,0,0,,{\fad(100,100)\blur1}啊吃什麼來著的
+Dialogue: 0,0:23:26.66,0:23:28.47,Default,NTP,0,0,0,,{\fad(100,100)\blur1}那個好像
+Dialogue: 0,0:23:28.60,0:23:30.32,Default,NTP,0,0,0,,{\fad(100,100)\blur1}啊 吃的餅乾
+Dialogue: 0,0:23:41.23,0:23:44.81,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這個我也能彈哦 啦啦啦啦啦啦啦
+Dialogue: 0,0:23:45.92,0:23:47.28,Default,NTP,0,0,0,,{\fad(100,100)\blur1}什麼...
+Dialogue: 0,0:23:46.30,0:23:47.45,Default,NTP,0,0,0,,{\fad(100,100)\blur1}啦啦啦啦啦啦啦
+Dialogue: 0,0:23:49.74,0:23:52.81,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這邊的三個女生呀 百合的說
+Dialogue: 0,0:23:57.78,0:24:17.10,zhushi,NTP,0,0,0,,{\fad(100,100)\blur1}(歌詞+周邊太吵聽不清 抱歉)
+Dialogue: 0,0:24:56.56,0:24:57.72,Default,NTP,0,0,0,,{\fad(100,100)\blur1}對不起..好快
+Dialogue: 0,0:25:02.40,0:25:08.26,zhushi,NTP,0,0,0,,{\fad(100,100)\blur1}2011年2月19日 終於！演唱會的前一天！
+Dialogue: 0,0:26:06.83,0:26:08.93,Default,NTP,0,0,0,,{\fad(100,100)\blur1}參觀旅程 出發
+Dialogue: 0,0:26:17.59,0:26:19.85,zhushi,NTP,0,0,0,,{\fad(100,100)\blur1}Staff：請注意腳下
+Dialogue: 0,0:26:24.35,0:28:30.87,zhushi,NTP,0,0,0,,{\1c&H7475E4&\3c&HFFFFFF&\an9\pos(1566,842)\fad(800,300)}攝影：豐崎愛生
+Dialogue: 0,0:26:24.67,0:26:28.16,Default,NTP,0,0,0,,{\fad(100,100)\blur1}當~當當~噹噹噹噹當當
+Dialogue: 0,0:26:31.29,0:26:34.17,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這個面具人是小純的聲優永田依子
+Dialogue: 0,0:26:33.45,0:26:34.46,Default,NTP,0,0,0,,{\fad(100,100)\blur1}你好
+Dialogue: 0,0:26:34.97,0:26:36.32,Default,NTP,0,0,0,,{\fad(100,100)\blur1}中央舞台怎麼樣
+Dialogue: 0,0:26:36.94,0:26:39.10,Default,NTP,0,0,0,,{\fad(100,100)\blur1}呀 非常厲害呢
+Dialogue: 0,0:26:40.64,0:26:42.51,Default,NTP,0,0,0,,{\fad(100,100)\blur1}會緊張呢
+Dialogue: 0,0:26:43.43,0:26:44.20,Default,NTP,0,0,0,,{\fad(100,100)\blur1}yahoo~
+Dialogue: 0,0:26:44.92,0:26:46.18,Default,NTP,0,0,0,,{\fad(100,100)\blur1}憂~~~
+Dialogue: 0,0:26:46.02,0:26:48.87,Default,NTP,0,0,0,,{\fad(100,100)\blur1}是...是 這是什麼
+Dialogue: 0,0:26:49.19,0:26:53.21,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這個呢 製作映像之類的東西吧 大概
+Dialogue: 0,0:26:57.90,0:26:58.91,Default,NTP,0,0,0,,{\fad(100,100)\blur1}Come With Me~
+Dialogue: 0,0:26:59.29,0:27:00.55,Default,NTP,0,0,0,,{\fad(100,100)\blur1}啊反了
+Dialogue: 0,0:27:00.55,0:27:01.49,Default,NTP,0,0,0,,{\fad(100,100)\blur1}Come With Me~
+Dialogue: 0,0:27:02.90,0:27:05.27,Default,NTP,0,0,0,,{\fad(100,100)\blur1}看上去就是這樣的感覺
+Dialogue: 0,0:27:07.08,0:27:10.61,Default,NTP,0,0,0,,{\fad(100,100)\blur1}烏恰 好厲害 怎麼會這麼大
+Dialogue: 0,0:27:11.82,0:27:12.41,Default,NTP,0,0,0,,{\fad(100,100)\blur1}噢
+Dialogue: 0,0:27:13.28,0:27:15.15,Default,NTP,0,0,0,,{\fad(100,100)\blur1}耶
+Dialogue: 0,0:27:15.38,0:27:17.64,Default,NTP,0,0,0,,{\fad(100,100)\blur1}埼玉超級體育館怎麼樣
+Dialogue: 0,0:27:18.18,0:27:22.77,Default,NTP,0,0,0,,{\fad(100,100)\blur1}是呢 比想像中的還要大呢
+Dialogue: 0,0:27:22.85,0:27:26.74,Default,NTP,0,0,0,,{\fad(100,100)\blur1}但是很緊張呢 大家要一起加油呢
+Dialogue: 0,0:27:30.41,0:27:30.87,Default,NTP,0,0,0,,{\fad(100,100)\blur1}部長呢
+Dialogue: 0,0:27:31.31,0:27:35.56,Default,NTP,0,0,0,,{\fad(100,100)\blur1}部長我啊 都不知道該說什麼好了
+Dialogue: 0,0:27:39.39,0:27:44.49,Default,NTP,0,0,0,,{\fad(100,100)\blur1}好可愛啊 原來是兩隻動物呀
+Dialogue: 0,0:27:45.33,0:27:45.78,Default,NTP,0,0,0,,{\fad(100,100)\blur1}Hi~~~
+Dialogue: 0,0:27:46.05,0:27:48.30,Default,NTP,0,0,0,,{\fad(100,100)\blur1}怎麼樣呢 埼玉超級體育館
+Dialogue: 0,0:27:48.35,0:27:52.82,Default,NTP,0,0,0,,{\fad(100,100)\blur1}好大 感覺真好啊 不愧是這裏
+Dialogue: 0,0:27:57.43,0:27:59.58,Default,NTP,0,0,0,,{\fad(100,100)\blur1}有回聲呢 yahoo~
+Dialogue: 0,0:28:00.15,0:28:04.04,Default,NTP,0,0,0,,{\fad(100,100)\blur1}yahoo~yahoo~yahoo~
+Dialogue: 0,0:28:05.21,0:28:06.53,Default,NTP,0,0,0,,{\fad(100,100)\blur1}請多多指教
+Dialogue: 0,0:28:09.40,0:28:10.50,Default,NTP,0,0,0,,{\fad(100,100)\blur1}好有趣
+Dialogue: 0,0:28:12.04,0:28:13.65,zhushi,NTP,0,0,0,,{\fad(100,100)\blur1}Staff：可以的話到下一處吧
+Dialogue: 0,0:28:13.48,0:28:14.44,Default,NTP,0,0,0,,{\fad(100,100)\blur1}是
+Dialogue: 0,0:28:17.95,0:28:20.99,Default,NTP,0,0,0,,{\fad(100,100)\blur1}對了 說起現在要幹嘛
+Dialogue: 0,0:28:21.88,0:28:32.61,Default,NTP,0,0,0,,{\fad(100,100)\blur1}那個 恩 在綵排之前的埼玉超級體育館觀光之旅
+Dialogue: 0,0:28:33.57,0:28:34.83,Default,NTP,0,0,0,,{\fad(100,100)\blur1}耶
+Dialogue: 0,0:28:38.00,0:31:09.35,zhushi,NTP,0,0,0,,{\1c&H7475E4&\3c&HFFFFFF&\an9\pos(1566,842)\fad(800,300)}攝影：豐崎愛生
+Dialogue: 0,0:28:39.56,0:28:42.34,Default,NTP,0,0,0,,{\fad(100,100)\blur1}好厲害 好寬廣
+Dialogue: 0,0:28:42.52,0:28:44.13,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這裏能裝多少人
+Dialogue: 0,0:28:44.30,0:28:49.10,Default,NTP,0,0,0,,{\fad(100,100)\blur1}大概三萬人吧 三萬人嗎 能裝三萬人
+Dialogue: 0,0:28:49.22,0:28:50.45,Default,NTP,0,0,0,,{\fad(100,100)\blur1}我們第一個進來哦
+Dialogue: 0,0:28:50.68,0:28:51.57,Default,NTP,0,0,0,,{\fad(100,100)\blur1}好厲害呢
+Dialogue: 0,0:28:51.70,0:28:52.61,Default,NTP,0,0,0,,{\fad(100,100)\blur1}去年的一倍呢
+Dialogue: 0,0:28:58.57,0:29:08.14,Default,NTP,0,0,0,,{\fad(100,100)\blur1}好寬廣呢 現在我們要去觀眾坐的地方
+Dialogue: 0,0:29:08.74,0:29:11.42,Default,NTP,0,0,0,,{\fad(100,100)\blur1}要去最後一排那裏
+Dialogue: 0,0:29:13.22,0:29:14.23,Default,NTP,0,0,0,,{\fad(100,100)\blur1}500級...
+Dialogue: 0,0:29:15.06,0:29:15.50,Default,NTP,0,0,0,,{\fad(100,100)\blur1}不好
+Dialogue: 0,0:29:16.53,0:29:16.93,Default,NTP,0,0,0,,{\fad(100,100)\blur1}好厲害
+Dialogue: 0,0:29:18.41,0:29:20.42,Default,NTP,0,0,0,,{\fad(100,100)\blur1}那是什麼
+Dialogue: 0,0:29:20.81,0:29:21.62,Default,NTP,0,0,0,,{\fad(100,100)\blur1}呀
+Dialogue: 0,0:29:25.81,0:29:29.11,Default,NTP,0,0,0,,{\fad(100,100)\blur1}等一下哦 還不讓你們看
+Dialogue: 0,0:29:34.64,0:29:36.60,Default,NTP,0,0,0,,{\fad(100,100)\blur1}好厲害 明晚會有多少人呢
+Dialogue: 0,0:29:38.62,0:29:41.95,Default,NTP,0,0,0,,{\fad(100,100)\blur1}爬那麼高太可怕了
+Dialogue: 0,0:29:42.90,0:29:45.36,Default,NTP,0,0,0,,{\fad(100,100)\blur1}嗚哇 這是啥
+Dialogue: 0,0:29:47.24,0:29:49.25,Default,NTP,0,0,0,,{\fad(100,100)\blur1}準備好了嗎
+Dialogue: 0,0:29:50.76,0:29:52.72,Default,NTP,0,0,0,,{\fad(100,100)\blur1}3 2 1
+Dialogue: 0,0:29:52.72,0:29:53.48,Default,NTP,0,0,0,,{\fad(100,100)\blur1}Dong~
+Dialogue: 0,0:29:54.43,0:29:57.88,Default,NTP,0,0,0,,{\fad(100,100)\blur1}嗚哇 看看這個絕景
+Dialogue: 0,0:29:59.68,0:30:07.00,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這裏是埼玉超級體育館最靠後的座位
+Dialogue: 0,0:30:08.59,0:30:13.11,Default,NTP,0,0,0,,{\fad(100,100)\blur1}我們站的地方是這裏... 這附近
+Dialogue: 0,0:30:14.92,0:30:15.71,Default,NTP,0,0,0,,{\fad(100,100)\blur1}還有這裏
+Dialogue: 0,0:30:17.57,0:30:20.53,Default,NTP,0,0,0,,{\fad(100,100)\blur1}呀 這裏雖然很大很遠
+Dialogue: 0,0:30:21.35,0:30:25.17,Default,NTP,0,0,0,,{\fad(100,100)\blur1}能很好的把歌曲傳到坐在這裏的觀眾就好了
+Dialogue: 0,0:30:26.39,0:30:27.33,Default,NTP,0,0,0,,{\fad(100,100)\blur1}要加油哦
+Dialogue: 0,0:30:29.06,0:30:33.20,Default,NTP,0,0,0,,{\fad(100,100)\blur1}大家 為了能傳到這裏而加油吧
+Dialogue: 0,0:30:33.45,0:30:34.87,Default,NTP,0,0,0,,{\fad(100,100)\blur1}加油
+Dialogue: 0,0:30:35.91,0:30:43.13,Default,NTP,0,0,0,,{\fad(100,100)\blur1}啊其實呢 這次小豬也在台上
+Dialogue: 0,0:30:45.04,0:30:47.53,Default,NTP,0,0,0,,{\fad(100,100)\blur1}那麼 在哪裏呢 小豬現在在發光
+Dialogue: 0,0:30:48.46,0:30:49.64,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這個就是
+Dialogue: 0,0:30:52.24,0:30:53.18,Default,NTP,0,0,0,,{\fad(100,100)\blur1}還有這邊
+Dialogue: 0,0:30:53.61,0:30:55.76,Default,NTP,0,0,0,,{\fad(100,100)\blur1}啊 好可愛
+Dialogue: 0,0:30:57.63,0:31:00.23,Default,NTP,0,0,0,,{\fad(100,100)\blur1}感覺演唱會好像不是明天呢
+Dialogue: 0,0:31:00.41,0:31:02.69,Default,NTP,0,0,0,,{\fad(100,100)\blur1}真的呢 沒有實感啊
+Dialogue: 0,0:31:10.02,0:31:17.79,Default,NTP,0,0,0,,{\fad(100,100)\blur1}就這樣 埼玉超級體育館觀光之旅還在繼續
+Dialogue: 0,0:31:18.12,0:31:20.73,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這是另一邊 日笠陽子呢
+Dialogue: 0,0:31:24.18,0:31:34.06,zhushi,NTP,0,0,0,,{\fad(100,100)\blur1}完成之前的工作趕來的陽子
+Dialogue: 0,0:31:23.64,0:31:26.55,Default,NTP,0,0,0,,{\fad(100,100)\blur1}大家早上好
+Dialogue: 0,0:31:27.76,0:31:31.40,Default,NTP,0,0,0,,{\fad(100,100)\blur1}來晚了 要加油呢
+Dialogue: 0,0:31:40.11,0:31:44.63,zhushi,NTP,0,0,0,,{\fad(100,100)\blur1}出演者指揮中心
+Dialogue: 0,0:31:48.40,0:31:53.08,Default,NTP,0,0,0,,{\fad(100,100)\blur1}現在沒人呢 好像包場一樣
+Dialogue: 0,0:31:54.22,0:31:55.45,Default,NTP,0,0,0,,{\fad(100,100)\blur1}啊 要被大家丟下了
+Dialogue: 0,0:31:55.82,0:31:56.48,Default,NTP,0,0,0,,{\fad(100,100)\blur1}等等
+Dialogue: 0,0:32:22.86,0:32:23.87,Default,NTP,0,0,0,,{\fad(100,100)\blur1}小純
+Dialogue: 0,0:32:25.82,0:32:27.91,Default,NTP,0,0,0,,{\fad(100,100)\blur1}阿梓喵 小凜
+Dialogue: 0,0:32:28.77,0:32:29.87,Default,NTP,0,0,0,,{\fad(100,100)\blur1}憂
+Dialogue: 0,0:32:29.73,0:32:31.79,Default,NTP,0,0,0,,{\fad(100,100)\blur1}澪 日笠
+Dialogue: 0,0:32:32.66,0:32:35.14,Default,NTP,0,0,0,,{\fad(100,100)\blur1}日笠在哪裏 日笠
+Dialogue: 0,0:32:35.56,0:32:37.72,Default,NTP,0,0,0,,{\fad(100,100)\blur1}大家 學學和和多淡定
+Dialogue: 0,0:32:40.30,0:32:43.49,Default,NTP,0,0,0,,{\fad(100,100)\blur1}對不起啦 玩脫了
+Dialogue: 0,0:32:57.21,0:32:57.97,Default,NTP,0,0,0,,{\fad(100,100)\blur1}好厲害
+Dialogue: 0,0:33:03.96,0:33:56.80,zhushi,NTP,0,0,0,,{\1c&H49D0D5&\3c&H4F4F59&\an9\pos(1566,842)\fad(800,300)}攝影：佐藤聰美
+Dialogue: 0,0:33:03.00,0:33:04.73,Default,NTP,0,0,0,,{\fad(100,100)\blur1}真田女士在做什麼呢
+Dialogue: 0,0:33:04.88,0:33:05.62,Default,NTP,0,0,0,,{\fad(100,100)\blur1}有點那個..
+Dialogue: 0,0:33:07.07,0:33:07.78,Default,NTP,0,0,0,,{\fad(100,100)\blur1}有野心哦
+Dialogue: 0,0:33:09.75,0:33:11.09,Default,NTP,0,0,0,,{\fad(100,100)\blur1}哇 好厲害
+Dialogue: 0,0:33:11.21,0:33:14.08,Default,NTP,0,0,0,,{\fad(100,100)\blur1}啊 這裏有龜兔賽跑
+Dialogue: 0,0:33:14.32,0:33:15.29,Default,NTP,0,0,0,,{\fad(100,100)\blur1}呦 彩奈親
+Dialogue: 0,0:33:20.25,0:33:21.20,Default,NTP,0,0,0,,{\fad(100,100)\blur1}好可愛
+Dialogue: 0,0:33:21.51,0:33:24.15,Default,NTP,0,0,0,,{\fad(100,100)\blur1}烏龜的頭沒有抬得這麼高吧
+Dialogue: 0,0:33:24.33,0:33:24.78,Default,NTP,0,0,0,,{\fad(100,100)\blur1}真的呢
+Dialogue: 0,0:33:25.07,0:33:26.68,Default,NTP,0,0,0,,{\fad(100,100)\blur1}烏龜的頭抬得超高
+Dialogue: 0,0:33:27.95,0:33:30.18,Default,NTP,0,0,0,,{\fad(100,100)\blur1}登上樓梯吧
+Dialogue: 0,0:33:30.18,0:33:31.61,Default,NTP,0,0,0,,{\fad(100,100)\blur1}那個誰跑的好快
+Dialogue: 0,0:33:32.09,0:33:35.16,Default,NTP,0,0,0,,{\fad(100,100)\blur1}小依 快跑 耶
+Dialogue: 0,0:33:36.54,0:33:39.76,Default,NTP,0,0,0,,{\fad(100,100)\blur1}小圓 耶
+Dialogue: 0,0:33:39.87,0:33:42.30,Default,NTP,0,0,0,,{\fad(100,100)\blur1}小愛 耶
+Dialogue: 0,0:33:44.86,0:33:45.48,Default,NTP,0,0,0,,{\fad(100,100)\blur1}拍好了
+Dialogue: 0,0:33:47.27,0:33:52.13,Default,NTP,0,0,0,,{\fad(100,100)\blur1}好厲害 鼓手現在在絕贊練習中
+Dialogue: 0,0:33:52.76,0:33:53.39,Default,NTP,0,0,0,,{\fad(100,100)\blur1}卡卡咚碰咚
+Dialogue: 0,0:33:54.82,0:33:56.72,Default,NTP,0,0,0,,{\fad(100,100)\blur1}因此 這次...
+Dialogue: 0,0:33:57.12,0:34:02.88,Default,NTP,0,0,0,,{\fad(100,100)\blur1}好可愛 我的攝影機 我的攝影機 我的攝影機
+Dialogue: 0,0:34:04.16,0:34:04.81,Default,NTP,0,0,0,,{\fad(100,100)\blur1}交給我了
+Dialogue: 0,0:34:06.04,0:34:11.21,zhushi,NTP,0,0,0,,{\1c&HB561DE&\3c&HFFFFFF&\an9\pos(1566,842)\fad(800,300)}攝影：壽美菜子
+Dialogue: 0,0:34:05.58,0:34:07.04,Default,NTP,0,0,0,,{\fad(100,100)\blur1}我是美菜子
+Dialogue: 0,0:34:08.43,0:34:10.79,Default,NTP,0,0,0,,{\fad(100,100)\blur1}現在我在攝影的說
+Dialogue: 0,0:34:11.48,0:34:15.48,Default,NTP,0,0,0,,{\fad(100,100)\blur1}現在不知道情緒是怎麼樣的呢
+Dialogue: 0,0:34:15.55,0:34:18.29,Default,NTP,0,0,0,,{\fad(100,100)\blur1}但是到了舞台上就感覺很開心
+Dialogue: 0,0:34:19.23,0:34:20.53,Default,NTP,0,0,0,,{\fad(100,100)\blur1}去那邊看看吧
+Dialogue: 0,0:34:21.92,0:34:23.34,Default,NTP,0,0,0,,{\fad(100,100)\blur1}沒關係哦 沒有放下鏡頭
+Dialogue: 0,0:34:23.88,0:34:26.71,Default,NTP,0,0,0,,{\fad(100,100)\blur1}走到這裏大概就能拍到愛生..不對..彩奈親了
+Dialogue: 0,0:34:27.16,0:34:30.48,Default,NTP,0,0,0,,{\fad(100,100)\blur1}小依 你貼PASS證的地方很有趣哦
+Dialogue: 0,0:34:30.46,0:34:31.38,Default,NTP,0,0,0,,{\fad(100,100)\blur1}啊 真的
+Dialogue: 0,0:34:31.53,0:34:32.63,Default,NTP,0,0,0,,{\fad(100,100)\blur1}沒想到在腿上呢
+Dialogue: 0,0:34:32.86,0:34:34.83,Default,NTP,0,0,0,,{\fad(100,100)\blur1}拿到pass證了嗎
+Dialogue: 0,0:34:35.00,0:34:35.86,Default,NTP,0,0,0,,{\fad(100,100)\blur1}拿到了
+Dialogue: 0,0:34:36.24,0:34:37.20,Default,NTP,0,0,0,,{\fad(100,100)\blur1}我也有呢
+Dialogue: 0,0:34:37.24,0:34:37.79,Default,NTP,0,0,0,,{\fad(100,100)\blur1}拿到了
+Dialogue: 0,0:34:38.78,0:34:39.55,Default,NTP,0,0,0,,{\fad(100,100)\blur1}我也是
+Dialogue: 0,0:34:39.62,0:34:40.86,Default,NTP,0,0,0,,{\fad(100,100)\blur1}一半分的呢
+Dialogue: 0,0:34:42.96,0:34:47.53,Default,NTP,0,0,0,,{\fad(100,100)\blur1}大家都有pass證了 這個是埼玉超級體育館的S嗎
+Dialogue: 0,0:34:48.10,0:34:49.41,Default,NTP,0,0,0,,{\fad(100,100)\blur1}staff的S吧
+Dialogue: 0,0:34:52.99,0:34:56.06,Default,NTP,0,0,0,,{\fad(100,100)\blur1}黑漆漆的 請注意了
+Dialogue: 0,0:35:02.94,0:35:03.73,Default,NTP,0,0,0,,{\fad(100,100)\blur1}謝謝
+Dialogue: 0,0:35:04.90,0:35:09.45,Default,NTP,0,0,0,,{\fad(100,100)\blur1}雖然鼓也很厲害 這個琴更厲害呢
+Dialogue: 0,0:35:10.62,0:35:11.52,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這是什麼
+Dialogue: 0,0:35:13.44,0:35:14.07,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這是什麼
+Dialogue: 0,0:35:14.59,0:35:16.90,Default,NTP,0,0,0,,{\fad(100,100)\blur1}雙排鍵盤呢
+Dialogue: 0,0:35:16.87,0:35:18.69,Default,NTP,0,0,0,,{\fad(100,100)\blur1}好厲害
+Dialogue: 0,0:35:19.49,0:35:20.88,Default,NTP,0,0,0,,{\fad(100,100)\blur1}實物啊
+Dialogue: 0,0:35:20.88,0:35:22.87,Default,NTP,0,0,0,,{\fad(100,100)\blur1}再摸實物的HTT各位
+Dialogue: 0,0:35:24.17,0:35:24.65,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這個
+Dialogue: 0,0:35:25.16,0:35:26.33,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這個是什麼
+Dialogue: 0,0:35:33.75,0:35:36.81,Default,NTP,0,0,0,,{\fad(100,100)\blur1}演唱會的時候我們要走的地方
+Dialogue: 0,0:35:37.68,0:35:40.85,Default,NTP,0,0,0,,{\fad(100,100)\blur1}啊 這個布是怎麼回事 不要啊
+Dialogue: 0,0:35:41.88,0:35:43.82,Default,NTP,0,0,0,,{\fad(100,100)\blur1}有好多門
+Dialogue: 0,0:35:43.82,0:35:46.26,Default,NTP,0,0,0,,{\fad(100,100)\blur1}是嗎 其實還有很多沒看到的
+Dialogue: 0,0:35:49.21,0:35:52.49,Default,NTP,0,0,0,,{\fad(100,100)\blur1}埼玉超級體育館有好多門啊 好厲害
+Dialogue: 0,0:35:54.67,0:35:56.63,Default,NTP,0,0,0,,{\fad(100,100)\blur1}雖然很開心 但..
+Dialogue: 0,0:35:59.81,0:36:01.34,Default,NTP,0,0,0,,{\fad(100,100)\blur1}太大了記不住路
+Dialogue: 0,0:35:59.93,0:36:01.27,Default,NTP,0,0,0,,{\fad(100,100)\blur1}我會小心不迷路的
+Dialogue: 0,0:36:01.61,0:36:04.90,Default,NTP,0,0,0,,{\fad(100,100)\blur1}吶 出來以後根本不知道自己在哪
+Dialogue: 0,0:36:05.53,0:36:06.02,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這是哪裏
+Dialogue: 0,0:36:06.53,0:36:09.31,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這裏呢 好像是裏·路
+Dialogue: 0,0:36:12.33,0:36:15.51,Default,NTP,0,0,0,,{\fad(100,100)\blur1}燃了的真田女士和緊張的小知
+Dialogue: 0,0:36:15.64,0:36:17.62,Default,NTP,0,0,0,,{\fad(100,100)\blur1}周圍看了之後有什麼感覺
+Dialogue: 0,0:36:18.30,0:36:24.17,Default,NTP,0,0,0,,{\fad(100,100)\blur1}真的很大 而且還有很棒的燈光
+Dialogue: 0,0:36:24.76,0:36:27.23,Default,NTP,0,0,0,,{\fad(100,100)\blur1}比想像的還厲害
+Dialogue: 0,0:36:28.10,0:36:31.90,Default,NTP,0,0,0,,{\fad(100,100)\blur1}搞不清哪兒跟哪兒 一個人走會迷路呢
+Dialogue: 0,0:36:35.17,0:36:40.22,Default,NTP,0,0,0,,{\fad(100,100)\blur1}就這樣 埼玉超級體育館到此結束
+Dialogue: 0,0:36:41.77,0:36:43.05,Default,NTP,0,0,0,,{\fad(100,100)\blur1}失禮了
+Dialogue: 0,0:36:44.96,0:36:46.54,Default,NTP,0,0,0,,{\fad(100,100)\blur1}我回來啦~
+Dialogue: 0,0:36:48.36,0:36:53.24,zhushi,NTP,0,0,0,,{\fad(100,100)\blur1}2011年2月20日 終於到了當天！
+Dialogue: 0,0:37:25.70,0:37:31.62,Default,NTP,0,0,0,,{\fad(100,100)\blur1}哼姆哼姆 原來如此 今天的演唱會是這樣的啊
+Dialogue: 0,0:37:32.50,0:37:36.50,Default,NTP,0,0,0,,{\fad(100,100)\blur1}啊 這是何等失態 竟然在拍我
+Dialogue: 0,0:37:36.76,0:37:40.62,Default,NTP,0,0,0,,{\fad(100,100)\blur1}K-ON 演唱會 Come With Me！！ 當天
+Dialogue: 0,0:37:40.73,0:37:42.85,Default,NTP,0,0,0,,{\fad(100,100)\blur1}說起來今天 今天啊..
+Dialogue: 0,0:37:43.04,0:37:47.77,Default,NTP,0,0,0,,{\fad(100,100)\blur1}啊 離開演正好還有30分鐘
+Dialogue: 0,0:37:47.87,0:37:52.61,Default,NTP,0,0,0,,{\fad(100,100)\blur1}啊怎麼辦呢 觀眾都進來了
+Dialogue: 0,0:37:52.67,0:37:54.22,Default,NTP,0,0,0,,{\fad(100,100)\blur1}心情真是既緊張又興奮呢
+Dialogue: 0,0:37:54.94,0:37:56.49,Default,NTP,0,0,0,,{\fad(100,100)\blur1}我現在呢 鏘鏘
+Dialogue: 0,0:37:56.68,0:38:06.59,Default,NTP,0,0,0,,{\fad(100,100)\blur1}穿着唯唱角色歌“Oh My ギー太!!”时的衣服
+Dialogue: 0,0:38:07.11,0:38:12.15,Default,NTP,0,0,0,,{\fad(100,100)\blur1}今天呢 在埼玉超級體育館這個大會場裏
+Dialogue: 0,0:38:12.47,0:38:18.17,Default,NTP,0,0,0,,{\fad(100,100)\blur1}借助小唯的力量 盡全力的奔跑
+Dialogue: 0,0:38:18.30,0:38:22.02,Default,NTP,0,0,0,,{\fad(100,100)\blur1}觀眾們一定要燃起來哦
+Dialogue: 0,0:38:22.27,0:38:25.35,Default,NTP,0,0,0,,{\fad(100,100)\blur1}就是這樣 快要開始了 加油
+Dialogue: 0,0:38:25.78,0:38:26.65,Default,NTP,0,0,0,,{\fad(100,100)\blur1}Funsu!
+Dialogue: 0,0:38:27.01,0:38:29.99,Default,NTP,0,0,0,,{\fad(100,100)\blur1}Bye bye~這裏是豐崎愛生
+Dialogue: 0,0:38:32.12,0:38:33.04,Default,NTP,0,0,0,,{\fad(100,100)\blur1}在這裏
+Dialogue: 0,0:38:33.26,0:38:34.35,Default,NTP,0,0,0,,{\fad(100,100)\blur1}到裏面嗎
+Dialogue: 0,0:38:34.71,0:38:37.53,Default,NTP,0,0,0,,{\fad(100,100)\blur1}有鏡前燈的鏡子呢
+Dialogue: 0,0:38:42.98,0:38:45.13,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這個是這次的衣服
+Dialogue: 0,0:38:45.44,0:38:46.58,Default,NTP,0,0,0,,{\fad(100,100)\blur1}就是這樣的感覺
+Dialogue: 0,0:38:49.64,0:38:56.71,Default,NTP,0,0,0,,{\fad(100,100)\blur1}上次的衣服白色比較多 今年的基本都是綠色了
+Dialogue: 0,0:38:57.00,0:39:03.62,Default,NTP,0,0,0,,{\fad(100,100)\blur1}不過呢 感覺沒怎麼變
+Dialogue: 0,0:39:03.62,0:39:05.66,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這件連衣裙 還有
+Dialogue: 0,0:39:06.21,0:39:07.66,Default,NTP,0,0,0,,{\fad(100,100)\blur1}帶了白色的頭帶
+Dialogue: 0,0:39:07.66,0:39:10.98,Default,NTP,0,0,0,,{\fad(100,100)\blur1}有點大人的感覺呢
+Dialogue: 0,0:39:11.18,0:39:12.65,Default,NTP,0,0,0,,{\fad(100,100)\blur1}耶~~
+Dialogue: 0,0:39:13.48,0:39:17.71,Default,NTP,0,0,0,,{\fad(100,100)\blur1}不知道該不該高興呢
+Dialogue: 0,0:39:18.22,0:39:20.82,Default,NTP,0,0,0,,{\fad(100,100)\blur1}總之 快開始了 要認真了 我要加油呢
+Dialogue: 0,0:39:20.81,0:39:22.01,Default,NTP,0,0,0,,{\fad(100,100)\blur1}sugar救救我
+Dialogue: 0,0:39:24.07,0:39:25.57,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這裏有椅子
+Dialogue: 0,0:39:25.70,0:39:26.85,Default,NTP,0,0,0,,{\fad(100,100)\blur1}謝謝
+Dialogue: 0,0:39:26.95,0:39:28.29,Default,NTP,0,0,0,,{\fad(100,100)\blur1}一個人感覺不踏實呀
+Dialogue: 0,0:39:29.24,0:39:30.00,Default,NTP,0,0,0,,{\fad(100,100)\blur1}耶
+Dialogue: 0,0:39:39.03,0:39:41.72,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這裏是秋山澪的聲優日笠陽子的說
+Dialogue: 0,0:39:42.26,0:39:45.01,Default,NTP,0,0,0,,{\fad(100,100)\blur1}今天 終於到了演唱會當天了
+Dialogue: 0,0:39:45.63,0:39:48.59,Default,NTP,0,0,0,,{\fad(100,100)\blur1}讓大家久等了 好緊張啊
+Dialogue: 0,0:39:49.19,0:39:51.73,Default,NTP,0,0,0,,{\fad(100,100)\blur1}鏡頭好近
+Dialogue: 0,0:39:52.03,0:39:57.51,Default,NTP,0,0,0,,{\fad(100,100)\blur1}那個..一路過來都很努力了
+Dialogue: 0,0:39:58.05,0:40:05.34,Default,NTP,0,0,0,,{\fad(100,100)\blur1}一起努力地唱 跳 彈 奏響歡樂的音符呢
+Dialogue: 0,0:40:05.45,0:40:06.79,Default,NTP,0,0,0,,{\fad(100,100)\blur1}今天的目標是享受這場演唱會
+Dialogue: 0,0:40:07.32,0:40:08.36,Default,NTP,0,0,0,,{\fad(100,100)\blur1}耶
+Dialogue: 0,0:40:10.11,0:40:13.88,Default,NTP,0,0,0,,{\fad(100,100)\blur1}但是..等下...不過還是太緊張了
+Dialogue: 0,0:40:13.84,0:40:16.77,Default,NTP,0,0,0,,{\fad(100,100)\blur1}不行了 我要去跑了
+Dialogue: 0,0:40:16.91,0:40:17.76,Default,NTP,0,0,0,,{\fad(100,100)\blur1}要去跑了
+Dialogue: 0,0:40:17.94,0:40:19.02,Default,NTP,0,0,0,,{\fad(100,100)\blur1}要去跑了
+Dialogue: 0,0:40:26.39,0:40:27.26,Default,NTP,0,0,0,,{\fad(100,100)\blur1}怎麼了
+Dialogue: 0,0:40:27.64,0:40:29.41,Default,NTP,0,0,0,,{\fad(100,100)\blur1}小心點哦
+Dialogue: 0,0:40:29.65,0:40:30.09,Default,NTP,0,0,0,,{\fad(100,100)\blur1}怎麼了
+Dialogue: 0,0:40:30.36,0:40:33.44,Default,NTP,0,0,0,,{\fad(100,100)\blur1}好像發生了很有趣的事情
+Dialogue: 0,0:40:36.36,0:40:41.06,Default,NTP,0,0,0,,{\fad(100,100)\blur1}大家好 我是壽美菜子 我是琴吹紬
+Dialogue: 0,0:40:41.57,0:40:48.19,Default,NTP,0,0,0,,{\fad(100,100)\blur1}還有30分鐘演唱會就要開始了
+Dialogue: 0,0:40:49.14,0:40:54.20,Default,NTP,0,0,0,,{\fad(100,100)\blur1}很期待到底會有怎麼樣的感覺呢
+Dialogue: 0,0:40:54.42,0:41:05.41,Default,NTP,0,0,0,,{\fad(100,100)\blur1}我希望能把大家一起至今努力練習的東西跟觀眾們好好分享
+Dialogue: 0,0:41:05.79,0:41:12.48,Default,NTP,0,0,0,,{\fad(100,100)\blur1}啊 這次的主題是 運動中的紬
+Dialogue: 0,0:41:16.25,0:41:23.66,Default,NTP,0,0,0,,{\fad(100,100)\blur1}去年穿的是大小姐感覺的衣服
+Dialogue: 0,0:41:24.55,0:41:27.93,Default,NTP,0,0,0,,{\fad(100,100)\blur1}把至今為止的紬紬展現給大家
+Dialogue: 0,0:41:27.93,0:41:31.58,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這次展現的是和輕音的大家相遇後 活潑的紬紬
+Dialogue: 0,0:41:31.87,0:41:37.62,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這次的歌曲也有很多舞動的地方
+Dialogue: 0,0:41:37.99,0:41:45.88,Default,NTP,0,0,0,,{\fad(100,100)\blur1}相應Live的粉色，熱褲，還有頭飾
+Dialogue: 0,0:41:45.98,0:41:50.40,Default,NTP,0,0,0,,{\fad(100,100)\blur1}指甲油也都是HTT大家的顏色
+Dialogue: 0,0:41:51.27,0:41:53.46,Default,NTP,0,0,0,,{\fad(100,100)\blur1}敬請期待哦
+Dialogue: 0,0:41:53.46,0:41:55.22,Default,NTP,0,0,0,,{\fad(100,100)\blur1}等會兒會場見
+Dialogue: 0,0:41:57.64,0:42:03.07,Default,NTP,0,0,0,,{\fad(100,100)\blur1}大家好 我是田井中律的聲優佐藤聰美的說 耶~~~
+Dialogue: 0,0:42:03.44,0:42:11.94,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這次的衣服呢...上次的呢 給人很軟很可愛的感覺
+Dialogue: 0,0:42:11.94,0:42:13.16,Default,NTP,0,0,0,,{\fad(100,100)\blur1}喂 外面的不要說
+Dialogue: 0,0:42:13.64,0:42:14.61,Default,NTP,0,0,0,,{\fad(100,100)\blur1}外面的不要說
+Dialogue: 0,0:42:19.14,0:42:19.80,Default,NTP,0,0,0,,{\fad(100,100)\blur1}就是這樣
+Dialogue: 0,0:42:20.48,0:42:24.24,Default,NTP,0,0,0,,{\fad(100,100)\blur1}上次的服裝好像小雞一樣
+Dialogue: 0,0:42:26.36,0:42:27.21,Default,NTP,0,0,0,,{\fad(100,100)\blur1}啊 叫我嗎
+Dialogue: 0,0:42:25.06,0:42:25.60,Default,NTP,0,0,0,,{\fad(100,100)\blur1}喂喂喂喂
+Dialogue: 0,0:42:24.22,0:42:24.88,Default,NTP,0,0,0,,{\fad(100,100)\blur1}小雞小雞
+Dialogue: 0,0:42:27.66,0:42:28.31,Default,NTP,0,0,0,,{\fad(100,100)\blur1}不同的嗎
+Dialogue: 0,0:42:29.47,0:42:34.17,Default,NTP,0,0,0,,{\fad(100,100)\blur1}我的時間啦 這次的感覺酷酷的黃色和黑色
+Dialogue: 0,0:42:34.31,0:42:36.66,Default,NTP,0,0,0,,{\fad(100,100)\blur1}上次的是黃和白 這次是黃和黑
+Dialogue: 0,0:42:37.09,0:42:44.39,Default,NTP,0,0,0,,{\fad(100,100)\blur1}給了很多衣服 被說了挑喜歡的穿吧
+Dialogue: 0,0:42:44.69,0:42:49.45,Default,NTP,0,0,0,,{\fad(100,100)\blur1}拜託了我的朋友 最喜歡輕音的小步美
+Dialogue: 0,0:42:49.77,0:42:52.89,Default,NTP,0,0,0,,{\fad(100,100)\blur1}幫我設計了這套服裝
+Dialogue: 0,0:42:53.21,0:42:54.49,Default,NTP,0,0,0,,{\fad(100,100)\blur1}可愛死了
+Dialogue: 0,0:42:54.72,0:42:55.98,Default,NTP,0,0,0,,{\fad(100,100)\blur1}謝謝步美
+Dialogue: 0,0:42:56.45,0:42:59.77,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這個蝴蝶結是point
+Dialogue: 0,0:43:00.89,0:43:10.61,Default,NTP,0,0,0,,{\fad(100,100)\blur1}也穿了這個短褲 表現出小律的感覺
+Dialogue: 0,0:43:11.18,0:43:14.62,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這次吧 把心...說錯了
+Dialogue: 0,0:43:15.05,0:43:19.84,Default,NTP,0,0,0,,{\fad(100,100)\blur1}幸福的黃色
+Dialogue: 0,0:43:19.97,0:43:25.60,Default,NTP,0,0,0,,{\fad(100,100)\blur1}希望會場也是一片黃海的感覺
+Dialogue: 0,0:43:26.17,0:43:33.04,Default,NTP,0,0,0,,{\fad(100,100)\blur1}盡力將我們努力的感覺傳遞給每位觀眾
+Dialogue: 0,0:43:39.10,0:43:41.07,Default,NTP,0,0,0,,{\fad(100,100)\blur1}老師 好厲害 真人啊
+Dialogue: 0,0:43:41.33,0:43:42.77,Default,NTP,0,0,0,,{\fad(100,100)\blur1}和Death Devil完全沒關的感覺
+Dialogue: 0,0:43:42.77,0:43:45.08,Default,NTP,0,0,0,,{\fad(100,100)\blur1}在說啥呢
+Dialogue: 0,0:43:45.36,0:43:48.08,Default,NTP,0,0,0,,{\fad(100,100)\blur1}好像是從動畫裏走出來的一樣
+Dialogue: 0,0:43:52.07,0:43:54.78,Default,NTP,0,0,0,,{\fad(100,100)\blur1}嗨 這裏是平澤憂的聲優米澤圓的說
+Dialogue: 0,0:43:55.75,0:44:04.65,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這次衣服的重點呢 是這個三層的裙子
+Dialogue: 0,0:44:05.19,0:44:07.66,Default,NTP,0,0,0,,{\fad(100,100)\blur1}有好多閃閃的東西
+Dialogue: 0,0:44:08.81,0:44:10.27,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這個也是重點
+Dialogue: 0,0:44:11.21,0:44:13.62,Default,NTP,0,0,0,,{\fad(100,100)\blur1}呀...太緊張了
+Dialogue: 0,0:44:13.89,0:44:16.64,Default,NTP,0,0,0,,{\fad(100,100)\blur1}昨天都沒怎麼睡呢
+Dialogue: 0,0:44:17.66,0:44:20.99,Default,NTP,0,0,0,,{\fad(100,100)\blur1}要讓大家微笑 首先自己要滿懷笑容
+Dialogue: 0,0:44:20.99,0:44:21.92,Default,NTP,0,0,0,,{\fad(100,100)\blur1}就像歌詞上說的那樣
+Dialogue: 0,0:44:22.26,0:44:27.48,Default,NTP,0,0,0,,{\fad(100,100)\blur1}為了能讓觀眾和自己都樂在其中 加油
+Dialogue: 0,0:44:37.90,0:44:40.51,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這裏就不用拍了....
+Dialogue: 0,0:44:45.31,0:44:47.70,Default,NTP,0,0,0,,{\fad(100,100)\blur1}我是真鍋和的聲優藤東知夏的說
+Dialogue: 0,0:44:48.00,0:44:48.92,Default,NTP,0,0,0,,{\fad(100,100)\blur1}你好
+Dialogue: 0,0:44:49.66,0:44:51.96,Default,NTP,0,0,0,,{\fad(100,100)\blur1}現在緊張的要死啊
+Dialogue: 0,0:44:52.10,0:44:54.92,Default,NTP,0,0,0,,{\fad(100,100)\blur1}來到舞台可能就會燃起來了
+Dialogue: 0,0:44:55.03,0:44:57.48,Default,NTP,0,0,0,,{\fad(100,100)\blur1}謝謝你們的支持 我會加油的
+Dialogue: 0,0:44:58.51,0:45:06.44,Default,NTP,0,0,0,,{\fad(100,100)\blur1}今天作出了黃綠色這樣很漂亮的衣服
+Dialogue: 0,0:45:09.81,0:45:12.73,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這樣 全身都閃閃的
+Dialogue: 0,0:45:12.98,0:45:17.91,Default,NTP,0,0,0,,{\fad(100,100)\blur1}我推薦的 著眼點在這個脖子上的花圈
+Dialogue: 0,0:45:18.85,0:45:24.30,Default,NTP,0,0,0,,{\fad(100,100)\blur1}一開始是沒有的 不過脖子的地方好像有點空
+Dialogue: 0,0:45:24.87,0:45:28.68,Default,NTP,0,0,0,,{\fad(100,100)\blur1}然後得到了這麼漂亮的花
+Dialogue: 0,0:45:29.83,0:45:31.84,Default,NTP,0,0,0,,{\fad(100,100)\blur1}頭上也帶了花
+Dialogue: 0,0:45:32.05,0:45:37.02,Default,NTP,0,0,0,,{\fad(100,100)\blur1}很多花的加油 我會加油的 請多指教
+Dialogue: 0,0:45:40.69,0:45:43.67,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這裏是小純的聲優永田依子
+Dialogue: 0,0:45:45.89,0:45:49.30,Default,NTP,0,0,0,,{\fad(100,100)\blur1}稍微看一下衣服吧
+Dialogue: 0,0:45:50.19,0:45:51.78,Default,NTP,0,0,0,,{\fad(100,100)\blur1}咕嚕咕嚕
+Dialogue: 0,0:45:52.60,0:45:54.51,Default,NTP,0,0,0,,{\fad(100,100)\blur1}最後來個耶
+Dialogue: 0,0:45:56.08,0:46:00.99,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這次把頭髮梳成了小純那樣
+Dialogue: 0,0:46:01.24,0:46:05.32,Default,NTP,0,0,0,,{\fad(100,100)\blur1}稍微有點像小純吧
+Dialogue: 0,0:46:06.28,0:46:09.33,Default,NTP,0,0,0,,{\fad(100,100)\blur1}然後這個可愛的水藍點點蝴蝶結
+Dialogue: 0,0:46:09.82,0:46:13.84,Default,NTP,0,0,0,,{\fad(100,100)\blur1}也帶了很多東西
+Dialogue: 0,0:46:14.35,0:46:22.53,Default,NTP,0,0,0,,{\fad(100,100)\blur1}下面也有星星啊 鏈子什麼的
+Dialogue: 0,0:46:22.88,0:46:25.20,Default,NTP,0,0,0,,{\fad(100,100)\blur1}就是像這樣的感覺
+Dialogue: 0,0:46:28.96,0:46:30.38,Default,NTP,0,0,0,,{\fad(100,100)\blur1}老娘我去了
+Dialogue: 0,0:46:36.05,0:46:38.37,Default,NTP,0,0,0,,{\fad(100,100)\blur1}三萬人啊
+Dialogue: 0,0:46:39.13,0:46:41.68,Default,NTP,0,0,0,,{\fad(100,100)\blur1}好酷 會很吵鬧的呢
+Dialogue: 0,0:46:41.85,0:46:43.71,Default,NTP,0,0,0,,{\fad(100,100)\blur1}我們是DEATH DEVIL
+Dialogue: 0,0:46:43.90,0:46:45.59,Default,NTP,0,0,0,,{\fad(100,100)\blur1}咬到了吧 出局
+Dialogue: 0,0:46:48.45,0:46:49.13,Default,NTP,0,0,0,,{\fad(100,100)\blur1}我會加油的
+Dialogue: 0,0:46:55.66,0:46:56.59,Default,NTP,0,0,0,,{\fad(100,100)\blur1}大家為的就是今天
+Dialogue: 0,0:46:57.51,0:47:02.41,Default,NTP,0,0,0,,{\fad(100,100)\blur1}這一天終於來了
+Dialogue: 0,0:47:03.43,0:47:08.86,Default,NTP,0,0,0,,{\fad(100,100)\blur1}保持衝勁一口氣到最後吧
+Dialogue: 0,0:47:09.99,0:47:12.75,Default,NTP,0,0,0,,{\fad(100,100)\blur1}去了！喔~~~~~~~
+Dialogue: 0,0:47:18.03,0:47:20.78,Default,NTP,0,0,0,,{\fad(100,100)\blur1}我們去了
+Dialogue: 0,0:47:31.20,0:47:33.39,Default,NTP,0,0,0,,{\fad(100,100)\blur1}我怎麼感覺一開始就快要...
+Dialogue: 0,0:47:34.64,0:47:39.16,Default,NTP,0,0,0,,{\fad(100,100)\blur1}對不起 好像我是五人中最擔心的一個
+Dialogue: 0,0:47:39.84,0:47:42.13,Default,NTP,0,0,0,,{\fad(100,100)\blur1}沒事 像平常一樣做就可以了
+Dialogue: 0,0:47:45.37,0:47:46.11,Default,NTP,0,0,0,,{\fad(100,100)\blur1}沒什麼好擔心的
+Dialogue: 0,0:47:46.11,0:47:47.09,zhushi,NTP,0,0,0,,{\fad(100,100)\blur1}Staff:加油加油
+Dialogue: 0,0:47:48.33,0:47:49.08,Default,NTP,0,0,0,,{\fad(100,100)\blur1}沒事吧
+Dialogue: 0,0:47:50.16,0:47:50.97,Default,NTP,0,0,0,,{\fad(100,100)\blur1}沒事吧
+Dialogue: 0,0:47:55.53,0:47:56.62,Default,NTP,0,0,0,,{\fad(100,100)\blur1}紬 要冷靜
+Dialogue: 0,0:47:56.86,0:47:58.89,Default,NTP,0,0,0,,{\fad(100,100)\blur1}愛生 一個人走太狡猾了哦
+Dialogue: 0,0:48:00.92,0:48:01.51,Default,NTP,0,0,0,,{\fad(100,100)\blur1}加油
+Dialogue: 0,0:48:16.06,0:48:18.51,Default,NTP,0,0,0,,{\fad(100,100)\blur1}大家在一起就已經想要哭了
+Dialogue: 0,0:48:18.72,0:48:19.69,Default,NTP,0,0,0,,{\fad(100,100)\blur1}太快了太快了
+Dialogue: 0,0:48:22.53,0:48:28.78,Default,NTP,0,0,0,,{\fad(100,100)\blur1}我們呢 像小唯說的那樣 五個人在一起就無敵了
+Dialogue: 0,0:48:29.60,0:48:32.49,Default,NTP,0,0,0,,{\fad(100,100)\blur1}說「K-ON Fight ON」加油吧
+Dialogue: 0,0:48:32.58,0:48:35.83,Default,NTP,0,0,0,,{\fad(100,100)\blur1}與其說加油 大家一起去享受吧
+Dialogue: 0,0:48:35.83,0:48:36.69,Default,NTP,0,0,0,,{\fad(100,100)\blur1}恩
+Dialogue: 0,0:48:37.17,0:48:40.56,Default,NTP,0,0,0,,{\fad(100,100)\blur1}K-ON Fight ON
+Dialogue: 0,0:48:40.74,0:48:42.21,Default,NTP,0,0,0,,{\fad(100,100)\blur1}耶
+Dialogue: 0,0:48:42.51,0:48:44.32,Default,NTP,0,0,0,,{\fad(100,100)\blur1}請多指教
+Dialogue: 0,0:48:47.36,0:48:51.72,Default,NTP,0,0,0,,{\fad(100,100)\blur1}魄力魄力魄力魄力魄力魄力魄力魄力魄力魄力魄力魄力魄力魄力
+Dialogue: 0,0:48:53.04,0:48:53.63,Default,NTP,0,0,0,,{\fad(100,100)\blur1}沒關係
+Dialogue: 0,0:48:53.72,0:48:55.28,Default,NTP,0,0,0,,{\fad(100,100)\blur1}絕對沒關係的
+Dialogue: 0,0:48:56.54,0:48:59.31,Default,NTP,0,0,0,,{\fad(100,100)\blur1}如果不動了 就慢慢地 按照自己的節奏
+Dialogue: 0,0:48:59.78,0:49:01.20,Default,NTP,0,0,0,,{\fad(100,100)\blur1}冷靜冷靜
+Dialogue: 0,0:49:01.20,0:49:04.21,Default,NTP,0,0,0,,{\fad(100,100)\blur1}還有 如果哇的時候 就喝水吧
+Dialogue: 0,0:49:05.68,0:49:09.42,Default,NTP,0,0,0,,{\fad(100,100)\blur1}大家愛死你們了 大家愛死你們了
+Dialogue: 0,0:49:09.80,0:49:10.94,Default,NTP,0,0,0,,{\fad(100,100)\blur1}一直以來感謝了
+Dialogue: 0,0:49:11.87,0:49:12.93,Default,NTP,0,0,0,,{\fad(100,100)\blur1}現在不是結束啊
+Dialogue: 0,0:49:18.54,0:49:19.45,Default,NTP,0,0,0,,{\fad(100,100)\blur1}大家愛死你們了
+Dialogue: 0,0:49:21.29,0:49:22.29,Default,NTP,0,0,0,,{\fad(100,100)\blur1}不能哭 不能哭
+Dialogue: 0,0:49:25.34,0:49:26.63,zhushi,NTP,0,0,0,,{\fad(100,100)\blur1}Staff：好了 去吧
+Dialogue: 0,0:49:40.69,0:49:41.47,Default,NTP,0,0,0,,{\fad(100,100)\blur1}Yes
+Dialogue: 0,0:49:47.37,0:49:48.73,Default,NTP,0,0,0,,{\fad(100,100)\blur1}結束了
+Dialogue: 0,0:49:53.97,0:49:54.97,Default,NTP,0,0,0,,{\fad(100,100)\blur1}寂寞了
+Dialogue: 0,0:49:59.95,0:50:00.84,Default,NTP,0,0,0,,{\fad(100,100)\blur1}很開心了
+Dialogue: 0,0:50:02.73,0:50:03.54,Default,NTP,0,0,0,,{\fad(100,100)\blur1}辦到了
+Dialogue: 0,0:50:04.80,0:50:05.96,Default,NTP,0,0,0,,{\fad(100,100)\blur1}太好了
+Dialogue: 0,0:50:10.78,0:50:12.18,Default,NTP,0,0,0,,{\fad(100,100)\blur1}非常感謝大家
+Dialogue: 0,0:50:41.42,0:50:46.08,Default,NTP,0,0,0,,{\fad(100,100)\blur1}辛苦你們了！
+Dialogue: 0,0:50:52.90,0:50:54.49,Default,NTP,0,0,0,,{\fad(100,100)\blur1}結束了。
+Dialogue: 0,0:34:17.67,0:35:04.25,zhushi,NTP,0,0,0,,{\1c&HB561DE&\3c&HFFFFFF&\an9\pos(1566,842)}攝影：壽美菜子
+Dialogue: 0,0:35:06.26,0:35:54.26,zhushi,NTP,0,0,0,,{\1c&HB561DE&\3c&HFFFFFF&\an9\pos(1566,842)}攝影：壽美菜子
+Dialogue: 0,0:36:11.24,0:36:27.74,zhushi,NTP,0,0,0,,{\1c&HB561DE&\3c&HFFFFFF&\an9\pos(1566,842)}攝影：壽美菜子
+Dialogue: 0,0:36:40.57,0:36:46.44,zhushi,NTP,0,0,0,,{\1c&HB561DE&\3c&HFFFFFF&\an9\pos(1566,842)}攝影：壽美菜子
+Dialogue: 0,0:36:00.00,0:36:07.00,zhushi,NTP,0,0,0,,{\1c&HB561DE&\3c&HFFFFFF&\an9\pos(1566,842)}攝影：壽美菜子
+
